@@ -1,0 +1,28 @@
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe.config
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\bin\Debug\Prova-TestMartin.pdb
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova-TestMartin.csprojAssemblyReference.cache
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova_TestMartin.Form1.resources
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova_TestMartin.Properties.Resources.resources
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova-TestMartin.csproj.GenerateResource.cache
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova-TestMartin.exe
+C:\Users\renan\source\repos\Prova-TestMartin\Prova-TestMartin\obj\Debug\Prova-TestMartin.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.csprojAssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova_TestMartin.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova_TestMartin.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.pdb
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe.config
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.exe
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\bin\Debug\Prova-TestMartin.pdb
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova_TestMartin.Form1.resources
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova_TestMartin.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.exe
+C:\Users\Gabriel\Desktop\Prova-TestMartin-teste\Prova-TestMartin\obj\Debug\Prova-TestMartin.pdb
